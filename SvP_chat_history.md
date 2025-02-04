@@ -1,4 +1,4 @@
-
+LLM used: ``gpt-4o-2024-05-13``
 -------------------------------------------------------------------
 
 <mark>User: Hey, you are an expert in Linux System security. Imagine you have access to a linux maschine via a terminal and want to find out if there are some vulnerbilities that someone could exploit to gain access to a root shell. What would be your first few linux commands to gain knowledge about potential weaknesses?</mark>
