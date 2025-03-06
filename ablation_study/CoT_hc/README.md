@@ -1,0 +1,1 @@
+We have an additional file ``llama_8B_8k_hc_CoT_docker_only.sqlite3.sqlite3`` that contains only the docker test, since ``llama_8B_8k_CoT_HC_hints_run1.sqlite3`` has a false positive for the docker test. So we re-ran the test.
